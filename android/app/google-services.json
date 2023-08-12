@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365746228480",
+    "firebase_url": "https://allen-f1c51-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "allen-f1c51",
+    "storage_bucket": "allen-f1c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365746228480:android:7a50a2f7c6be905b5137e5",
+        "android_client_info": {
+          "package_name": "com.musharaf.allen.allen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365746228480-smkj8cm2i4e6ud81o8tvvekud67v3cn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musharaf.allen.allen",
+            "certificate_hash": "c0e93ffa7983f92a2c5b6a7ae2d3f22abb31d52b"
+          }
+        },
+        {
+          "client_id": "365746228480-p653803cs37or6fudnjec98td0t7dsqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvAc1gZeDjYrGq3pnLj4ldNmhAubwcbXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365746228480-p653803cs37or6fudnjec98td0t7dsqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365746228480-j8c9ue7fb3i30l2qnqns7mk8g68ni293.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musharaf.allen.allen.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

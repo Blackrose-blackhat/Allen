@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>365746228480-ja4lj3g60i5nvatf9gabud532v5d7btn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.365746228480-ja4lj3g60i5nvatf9gabud532v5d7btn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>365746228480-smkj8cm2i4e6ud81o8tvvekud67v3cn3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZtKlF4aD0XxaTIby17KRw0D_ThOFi8sk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>365746228480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.musharaf.allen.allen</string>
+	<key>PROJECT_ID</key>
+	<string>allen-f1c51</string>
+	<key>STORAGE_BUCKET</key>
+	<string>allen-f1c51.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:365746228480:ios:024ab914ed4ca5195137e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://allen-f1c51-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
